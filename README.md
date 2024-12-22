@@ -2,7 +2,7 @@
 
 Este repositorio contiene los recursos (assets) utilizados en mis publicaciones. Aquí encontrarás imágenes, diagramas y otros archivos multimedia organizados por categorías y artículos.
 
-## Estructura del Repositorio
+## Estructura del repositorio
 
 ```bash
 .
