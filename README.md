@@ -19,7 +19,7 @@ Este repositorio contiene los recursos (assets) utilizados en mis publicaciones.
    Usa el enlace público directo a los archivos para incluirlos en tus artículos. Por ejemplo:
 
    ```markdown
-   ![Diagrama de ejecución](https://raw.githubusercontent.com/israoo/content-assets/maaster/quick-introductions/001/pipeline-execution.png)
+   ![GitHub Actions pipeline](https://raw.githubusercontent.com/israoo/content-assets/maaster/quick-introductions/001/pipeline-execution.png)
    ```
 
 2. **Actualizar o agregar assets**:
