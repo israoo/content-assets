@@ -10,6 +10,7 @@ Este repositorio contiene los recursos (assets) utilizados en mis publicaciones.
 │   └── 001
 │       ├── pipeline-execution.png
 │       └── diagram.png
+├── .gitignore
 └── README.md
 ```
 
