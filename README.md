@@ -6,12 +6,18 @@ Este repositorio contiene los recursos (assets) utilizados en mis publicaciones.
 
 ```bash
 .
-├── quick-introductions
-│   └── 001
-│       ├── pipeline-execution.png
-│       └── diagram.png
-├── .gitignore
-└── README.md
+├── comparisons
+│   └── 000
+│       └── image.png
+├── practical-tutorials
+│   └── 000
+│       └── image.png
+├── problems-solutions
+│   └── 000
+│       └── image.png
+└── quick-introductions
+    └── 000
+        └── image.png
 ```
 
 ## Cómo usar los assets
