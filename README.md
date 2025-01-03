@@ -23,15 +23,17 @@ Este repositorio contiene los recursos (assets) utilizados en mis publicaciones.
 ## Cómo usar los assets
 
 1. **Referenciar en publicaciones**:
-   Usa el enlace público directo a los archivos para incluirlos en tus artículos. Por ejemplo:
 
-   ```markdown
-   ![GitHub Actions pipeline](https://raw.githubusercontent.com/israoo/content-assets/master/quick-introductions/001/pipeline-execution.png)
-   ```
+    Usa el enlace público directo a los archivos para incluirlos en tus artículos. Por ejemplo:
+
+    ```markdown
+    ![GitHub Actions pipeline](https://raw.githubusercontent.com/israoo/content-assets/master/quick-introductions/001/pipeline-execution.png)
+    ```
 
 2. **Actualizar o agregar assets**:
-   - Crea una nueva carpeta para cada artículo en la categoría correspondiente.
-   - Sube tus imágenes o archivos multimedia dentro de esa carpeta.
+
+    - Crea una nueva carpeta para cada artículo en la categoría correspondiente.
+    - Sube tus imágenes o archivos multimedia dentro de esa carpeta.
 
 ## Contribuciones
 
